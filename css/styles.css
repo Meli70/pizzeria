@@ -1,0 +1,27 @@
+h1 {
+  font-family: purisa ;
+  text-align: center;
+  padding: 50px;
+  font-size: 60px;
+  color: bisque;
+
+    
+}
+
+.container {
+  background-color: rgb(46, 179, 97);
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: contain;
+  font-family: fantasy;
+  background-position: center;
+}
+body {
+  background-image: url(../images/bbq_chicken.jpg);
+}
+p {
+  font-family: purisa;
+  text-align: center;
+  font-style: italic;
+  color: bisque;
+}
